@@ -2,7 +2,7 @@
 ### This repository is for the term project code for CS 777 Spring 2024 created by Murong Li &amp; Chuao Peng &amp; Linlin Wang
 
 ## Dataset
-* The data resource is from [https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://chriswhong.com/open-data/foil_nyc_taxi/)
+* The data resource is from https://chriswhong.com/open-data/foil_nyc_taxi/
 * The raw data has two parts:
   * trip data: It contains location, time, and distance information.
   * fare data: It contains fares and tips information.
@@ -12,3 +12,6 @@
 ## Code
 * project.ipynb: This file shows the work of data cleaning and modeling.
 * testing.ipynb: This file shows the work of using the cluster obtained above to evaluate the prediction and recommendation.
+
+## CSV
+* final.cvs: This CSV file contains the output of project.ipynb, which is the cluster information.
