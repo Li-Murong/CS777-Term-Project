@@ -8,7 +8,6 @@
   * fare data: It contains fares and tips information.
 * We joined the trip and fare data and cleaned them.
 
-
 ## Code
 * project.ipynb: This file shows the work of data cleaning and modeling.
 * testing.ipynb: This file shows the work of using the cluster obtained above to evaluate the prediction and recommendation.
